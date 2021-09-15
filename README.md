@@ -1,1 +1,1 @@
-"# stock-trading" 
+"# QuantConnect DDPG Implementation" 
